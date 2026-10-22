@@ -1,0 +1,19 @@
+name: lab8
+description: 'Lab 8 - danh sach bai viet tu REST API.'
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Chỉ cần package http để gọi REST API.
+  http: ^1.6.0
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
