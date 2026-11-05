@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Sổ tay",
+    "note": "Ghi chú bài học Flutter"
+  },
+  {
+    "id": 2,
+    "name": "Bút bi",
+    "note": "Mực xanh"
+  },
+  {
+    "id": 3,
+    "name": "Balo",
+    "note": "Đựng sách và laptop"
+  }
+]
