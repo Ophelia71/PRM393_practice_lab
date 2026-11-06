@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_1_MockLogin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_1_MockLogin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_1_MockLogin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_2_RealApiLogin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_2_RealApiLogin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_2_RealApiLogin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_3_AutoLogin_Logout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_3_AutoLogin_Logout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_3_AutoLogin_Logout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_4_FirebaseGoogleSignIn/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_4_FirebaseGoogleSignIn/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_4_FirebaseGoogleSignIn/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_5_Notification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_5_Notification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_5_Notification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_Full/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_Full/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Lab10_Full/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
